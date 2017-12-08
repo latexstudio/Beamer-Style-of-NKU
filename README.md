@@ -18,6 +18,6 @@
 ![](equation.PNG)
 ![](frame.PNG)
 
-P.S.  Other LaTeX styles or even Markdown styles are also included.
+P.S.  Other LaTeX styles or even Markdown styles are also included, such as `typora_monokai.css`, `document_model.tex`, `warsaw_beamer_model.tex`.
 <br/>
 P.P.S. 传送门：[南开大学毕业论文LaTeX模板](http://ns.math.nankai.edu.cn/~sunwch/tex/tex.htm)
