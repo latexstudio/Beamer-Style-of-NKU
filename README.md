@@ -13,10 +13,16 @@
 
 **Example**
 
-![](cover.PNG)
-![](column.PNG)
-![](equation.PNG)
-![](frame.PNG)
+![cover](cover.PNG)
+![column](column.PNG)
+![equation](equation.PNG)
+![frame](frame.PNG)
+![algorithm](algorithm.PNG)
+<br/>
+**Attention**: A big problem is that the package about algorithm can't show a proper algorithm format (or even can't make the file released), so I have to use a table to make an algorithm. Besides, recommend to use `description` instead of `enumerate`.
+<br/>
+![code](code.PNG)
+![theorem & proof](proof.PNG)
 
 P.S.  Other LaTeX styles or even Markdown styles are also included, such as `typora_monokai.css`, `document_model.tex`, `warsaw_beamer_model.tex`.
 <br/>
